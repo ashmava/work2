@@ -1,0 +1,19 @@
+.first:hover{
+	background-image:url('../images/bg1.jpeg');
+	background-size:100%;
+}
+.second:hover{
+	background-image:url('../images/bg2.jpeg');
+}
+.third:hover{
+	background-image:url('../images/bg3.jpeg');
+}
+.fourth:hover{
+	background-image:url('../images/bg4.jpeg');
+}
+.fifth:hover{
+	background-image:url('../images/bg5.jpeg');
+}
+.sixth:hover{
+	background-image:url('../images/bg6.jpeg');
+}
